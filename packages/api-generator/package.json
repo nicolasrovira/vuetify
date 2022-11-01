@@ -6,7 +6,8 @@
   "scripts": {
     "build": "ts-node src/index.ts",
     "lint": "eslint --ext .ts src -f codeframe --max-warnings 0",
-    "lint:fix": "yarn lint --fix"
+    "lint:fix": "yarn lint --fix",
+    "missing-descriptions": "ts-node src/missing-descriptions.ts"
   },
   "author": "",
   "license": "ISC",
