@@ -9,6 +9,12 @@
     "plain": "Removes the default background change applied when hovering over the button.",
     "prependIcon": "Adds an icon before the default slot content.",
     "stacked": "Displays the button as a flex-column.",
-    "text": "Makes the background transparent. When using the **color** prop, the color will be applied to the button text instead of the background."
+    "text": "Makes the background transparent. When using the **color** prop, the color will be applied to the button text instead of the background.",
+    "symbol": "MISSING DESCRIPTION",
+    "active": "MISSING DESCRIPTION",
+    "ripple": "MISSING DESCRIPTION"
+  },
+  "events": {
+    "group:selected": "MISSING DESCRIPTION"
   }
 }

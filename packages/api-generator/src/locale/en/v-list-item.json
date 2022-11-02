@@ -12,6 +12,19 @@
     "prependIcon": "Prepends a [v-icon](/components/icons/) component to the header",
     "title": "Generates a `v-list-item-title` component with the supplied value",
     "subtitle": "Generates a `v-list-item-subtitle` component with the supplied value",
-    "value": "The value used when a child of a [v-list-item-group](/components/list-item-groups)."
+    "value": "The value used when a child of a [v-list-item-group](/components/list-item-groups).",
+    "nav": "MISSING DESCRIPTION",
+    "link": "MISSING DESCRIPTION",
+    "lines": "MISSING DESCRIPTION"
+  },
+  "events": {
+    "click": "MISSING DESCRIPTION"
+  },
+  "slots": {
+    "prepend": "MISSING DESCRIPTION",
+    "append": "MISSING DESCRIPTION",
+    "default": "MISSING DESCRIPTION",
+    "title": "MISSING DESCRIPTION",
+    "subtitle": "MISSING DESCRIPTION"
   }
 }

@@ -8,6 +8,23 @@
     "openOnClick": "Designates whether the tooltip should open on activator click",
     "openOnHover": "Designates whether the tooltip should open on activator hover",
     "tag": "Specifies a custom tag for the activator wrapper",
-    "transition": "Sets the component transition. Can be one of the [built in transitions](/styles/transitions) or one your own."
+    "transition": "Sets the component transition. Can be one of the [built in transitions](/styles/transitions) or one your own.",
+    "id": "MISSING DESCRIPTION",
+    "text": "MISSING DESCRIPTION"
+  },
+  "events": {
+    "update:modelValue": "MISSING DESCRIPTION"
+  },
+  "slots": {
+    "default": "MISSING DESCRIPTION",
+    "activator": "MISSING DESCRIPTION"
+  },
+  "exposed": {
+    "activatorEl": "MISSING DESCRIPTION",
+    "animateClick": "MISSING DESCRIPTION",
+    "contentEl": "MISSING DESCRIPTION",
+    "globalTop": "MISSING DESCRIPTION",
+    "localTop": "MISSING DESCRIPTION",
+    "updateLocation": "MISSING DESCRIPTION"
   }
 }

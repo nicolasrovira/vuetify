@@ -1,0 +1,40 @@
+{
+  "props": {
+    "label": "MISSING DESCRIPTION",
+    "id": "MISSING DESCRIPTION",
+    "appendInnerIcon": "MISSING DESCRIPTION",
+    "bgColor": "MISSING DESCRIPTION",
+    "clearable": "MISSING DESCRIPTION",
+    "clearIcon": "MISSING DESCRIPTION",
+    "active": "MISSING DESCRIPTION",
+    "color": "MISSING DESCRIPTION",
+    "dirty": "MISSING DESCRIPTION",
+    "disabled": "MISSING DESCRIPTION",
+    "error": "MISSING DESCRIPTION",
+    "persistentClear": "MISSING DESCRIPTION",
+    "prependInnerIcon": "MISSING DESCRIPTION",
+    "reverse": "MISSING DESCRIPTION",
+    "singleLine": "MISSING DESCRIPTION",
+    "variant": "MISSING DESCRIPTION",
+    "modelValue": "MISSING DESCRIPTION"
+  },
+  "events": {
+    "click:clear": "MISSING DESCRIPTION",
+    "click:appendInner": "MISSING DESCRIPTION",
+    "click:prependInner": "MISSING DESCRIPTION",
+    "update:modelValue": "MISSING DESCRIPTION",
+    "click:control": "MISSING DESCRIPTION",
+    "update:focused": "MISSING DESCRIPTION"
+  },
+  "slots": {
+    "clear": "MISSING DESCRIPTION",
+    "prepend-inner": "MISSING DESCRIPTION",
+    "append-inner": "MISSING DESCRIPTION",
+    "label": "MISSING DESCRIPTION",
+    "loader": "MISSING DESCRIPTION",
+    "default": "MISSING DESCRIPTION"
+  },
+  "exposed": {
+    "controlRef": "MISSING DESCRIPTION"
+  }
+}

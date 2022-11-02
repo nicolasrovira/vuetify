@@ -29,11 +29,23 @@
     "textarea": "Textarea text field with alternate style",
     "toggleKeys": "Array of key codes that will toggle the input (if it supports toggling)",
     "type": "Sets input type",
-    "shaped": "Round if `outlined` and increase `border-radius` if `filled`. Must be used with either `outlined` or `filled`"
+    "shaped": "Round if `outlined` and increase `border-radius` if `filled`. Must be used with either `outlined` or `filled`",
+    "hint": "MISSING DESCRIPTION",
+    "persistentHint": "MISSING DESCRIPTION",
+    "persistentCounter": "MISSING DESCRIPTION",
+    "counterValue": "MISSING DESCRIPTION"
   },
   "slots": {
     "append-outer": "Adds an item outside the input and after input content",
-    "prepend-inner": "Adds an item inside the input and before input content"
+    "prepend-inner": "Adds an item inside the input and before input content",
+    "prepend": "MISSING DESCRIPTION",
+    "append": "MISSING DESCRIPTION",
+    "details": "MISSING DESCRIPTION",
+    "clear": "MISSING DESCRIPTION",
+    "append-inner": "MISSING DESCRIPTION",
+    "label": "MISSING DESCRIPTION",
+    "loader": "MISSING DESCRIPTION",
+    "default": "MISSING DESCRIPTION"
   },
   "events": {
     "blur": "Emitted when the input is blurred",
@@ -42,6 +54,20 @@
     "click:clear": "Emitted when clearable icon clicked",
     "click:prepend-inner": "Emitted when prepended inner icon is clicked",
     "focus": "Emitted when component is focused",
-    "keydown": "Emitted when **any** key is pressed"
+    "keydown": "Emitted when **any** key is pressed",
+    "click:prepend": "MISSING DESCRIPTION",
+    "click:append": "MISSING DESCRIPTION",
+    "click:appendInner": "MISSING DESCRIPTION",
+    "click:prependInner": "MISSING DESCRIPTION",
+    "click:control": "MISSING DESCRIPTION",
+    "click:input": "MISSING DESCRIPTION",
+    "update:focused": "MISSING DESCRIPTION",
+    "update:modelValue": "MISSING DESCRIPTION"
+  },
+  "exposed": {
+    "reset": "MISSING DESCRIPTION",
+    "resetValidation": "MISSING DESCRIPTION",
+    "validate": "MISSING DESCRIPTION",
+    "controlRef": "MISSING DESCRIPTION"
   }
 }

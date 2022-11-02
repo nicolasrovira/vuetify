@@ -9,9 +9,28 @@
     "showSize": "Sets the displayed size of selected file(s). When using **true** will default to _1000_ displaying (**kB, MB, GB**) while _1024_ will display (**KiB, MiB, GiB**).",
     "smallChips": "Changes display of selections to chips with the **small** property",
     "truncateLength": "The length of a filename before it is truncated with ellipsis",
-    "value": "A single or array of [File objects](https://developer.mozilla.org/en-US/docs/Web/API/File)."
+    "value": "A single or array of [File objects](https://developer.mozilla.org/en-US/docs/Web/API/File).",
+    "modelValue": "MISSING DESCRIPTION",
+    "counter": "MISSING DESCRIPTION",
+    "hint": "MISSING DESCRIPTION",
+    "persistentHint": "MISSING DESCRIPTION",
+    "placeholder": "MISSING DESCRIPTION"
   },
   "slots": {
     "selection": "Slot for defining a custom appearance for selected item(s). Provides the current **index**, **text** (truncated) and [file](https://developer.mozilla.org/en-US/docs/Web/API/File)."
+  },
+  "events": {
+    "click:prepend": "MISSING DESCRIPTION",
+    "click:append": "MISSING DESCRIPTION",
+    "click:clear": "MISSING DESCRIPTION",
+    "click:appendInner": "MISSING DESCRIPTION",
+    "click:prependInner": "MISSING DESCRIPTION",
+    "click:control": "MISSING DESCRIPTION",
+    "update:modelValue": "MISSING DESCRIPTION"
+  },
+  "exposed": {
+    "reset": "MISSING DESCRIPTION",
+    "resetValidation": "MISSING DESCRIPTION",
+    "validate": "MISSING DESCRIPTION"
   }
 }

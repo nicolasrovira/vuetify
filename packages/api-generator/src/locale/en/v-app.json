@@ -1,3 +1,8 @@
 {
-  "props": {}
+  "props": {},
+  "exposed": {
+    "getLayoutItem": "MISSING DESCRIPTION",
+    "items": "MISSING DESCRIPTION",
+    "theme": "MISSING DESCRIPTION"
+  }
 }

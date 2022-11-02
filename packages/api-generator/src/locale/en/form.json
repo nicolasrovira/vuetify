@@ -1,0 +1,10 @@
+{
+  "props": {
+    "disabled": "MISSING DESCRIPTION",
+    "fastFail": "MISSING DESCRIPTION",
+    "lazyValidation": "MISSING DESCRIPTION",
+    "readonly": "MISSING DESCRIPTION",
+    "modelValue": "MISSING DESCRIPTION",
+    "validateOn": "MISSING DESCRIPTION"
+  }
+}

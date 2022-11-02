@@ -3,5 +3,18 @@
     "change": "Emitted when tab becomes active",
     "click": "Emitted when the component is clicked",
     "keydown": "Emitted when **enter** key is pressed"
+  },
+  "props": {
+    "fixed": "MISSING DESCRIPTION",
+    "prependIcon": "MISSING DESCRIPTION",
+    "appendIcon": "MISSING DESCRIPTION",
+    "stacked": "MISSING DESCRIPTION",
+    "title": "MISSING DESCRIPTION",
+    "ripple": "MISSING DESCRIPTION",
+    "color": "MISSING DESCRIPTION",
+    "sliderColor": "MISSING DESCRIPTION",
+    "hideSlider": "MISSING DESCRIPTION",
+    "direction": "MISSING DESCRIPTION",
+    "icon": "MISSING DESCRIPTION"
   }
 }

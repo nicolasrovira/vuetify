@@ -9,13 +9,24 @@
     "showArrowsOnHover": "Display the \"next\" and \"prev\" buttons on hover. `show-arrows` MUST ALSO be set.",
     "touch": "Provide a custom **left** and **right** function when swiped left or right.",
     "touchless": "Disable touch support.",
-    "vertical": "Uses a vertical transition when changing windows."
+    "vertical": "Uses a vertical transition when changing windows.",
+    "modelValue": "MISSING DESCRIPTION",
+    "disabled": "MISSING DESCRIPTION",
+    "direction": "MISSING DESCRIPTION",
+    "selectedClass": "MISSING DESCRIPTION",
+    "mandatory": "MISSING DESCRIPTION"
   },
   "events": {
-    "change": "Emitted when the component value is changed by user interaction"
+    "change": "Emitted when the component value is changed by user interaction",
+    "update:modelValue": "MISSING DESCRIPTION"
   },
   "slots": {
     "next": "Slot displaying the arrow switching to the next item",
-    "prev": "Slot displaying the arrow switching to the previous item"
+    "prev": "Slot displaying the arrow switching to the previous item",
+    "default": "MISSING DESCRIPTION",
+    "additional": "MISSING DESCRIPTION"
+  },
+  "exposed": {
+    "group": "MISSING DESCRIPTION"
   }
 }

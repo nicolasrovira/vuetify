@@ -8,10 +8,20 @@
     "prependIcon": "Prepends an icon to the component, uses the same syntax as `v-icon`",
     "ripple": "Applies the [v-ripple](/directives/ripple) directive.",
     "subGroup": "Designate the component as nested list group",
-    "value": "Expands / Collapse the list-group"
+    "value": "Expands / Collapse the list-group",
+    "title": "MISSING DESCRIPTION",
+    "activeColor": "MISSING DESCRIPTION",
+    "color": "MISSING DESCRIPTION",
+    "collapseIcon": "MISSING DESCRIPTION",
+    "expandIcon": "MISSING DESCRIPTION",
+    "fluid": "MISSING DESCRIPTION",
+    "subgroup": "MISSING DESCRIPTION",
+    "items": "MISSING DESCRIPTION"
   },
   "slots": {
     "appendIcon": "Appends an icon to the component, uses the same syntax as `v-icon`",
-    "prependIcon": "Prepends an icon to the component, uses the same syntax as `v-icon`"
+    "prependIcon": "Prepends an icon to the component, uses the same syntax as `v-icon`",
+    "activator": "MISSING DESCRIPTION",
+    "default": "MISSING DESCRIPTION"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "props": {
+    "direction": "MISSING DESCRIPTION",
+    "disabled": "MISSING DESCRIPTION",
+    "error": "MISSING DESCRIPTION",
+    "readonly": "MISSING DESCRIPTION",
+    "reverse": "MISSING DESCRIPTION",
+    "max": "MISSING DESCRIPTION",
+    "min": "MISSING DESCRIPTION",
+    "step": "MISSING DESCRIPTION",
+    "thumbColor": "MISSING DESCRIPTION",
+    "thumbLabel": "MISSING DESCRIPTION",
+    "thumbSize": "MISSING DESCRIPTION",
+    "showTicks": "MISSING DESCRIPTION",
+    "ticks": "MISSING DESCRIPTION",
+    "tickSize": "MISSING DESCRIPTION",
+    "color": "MISSING DESCRIPTION",
+    "trackColor": "MISSING DESCRIPTION",
+    "trackFillColor": "MISSING DESCRIPTION",
+    "trackSize": "MISSING DESCRIPTION"
+  }
+}

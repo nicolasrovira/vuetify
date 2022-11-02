@@ -1,0 +1,19 @@
+{
+  "props": {
+    "label": "MISSING DESCRIPTION",
+    "trueValue": "MISSING DESCRIPTION",
+    "falseValue": "MISSING DESCRIPTION",
+    "value": "MISSING DESCRIPTION"
+  },
+  "events": {
+    "update:modelValue": "MISSING DESCRIPTION"
+  },
+  "slots": {
+    "default": "MISSING DESCRIPTION",
+    "input": "MISSING DESCRIPTION"
+  },
+  "exposed": {
+    "isFocused": "MISSING DESCRIPTION",
+    "input": "MISSING DESCRIPTION"
+  }
+}

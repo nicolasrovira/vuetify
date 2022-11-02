@@ -1,0 +1,17 @@
+{
+  "props": {
+    "readonly": "MISSING DESCRIPTION",
+    "modelValue": "MISSING DESCRIPTION",
+    "chips": "MISSING DESCRIPTION",
+    "closableChips": "MISSING DESCRIPTION",
+    "eager": "MISSING DESCRIPTION",
+    "hideNoData": "MISSING DESCRIPTION",
+    "hideSelected": "MISSING DESCRIPTION",
+    "menu": "MISSING DESCRIPTION",
+    "menuIcon": "MISSING DESCRIPTION",
+    "menuProps": "MISSING DESCRIPTION",
+    "multiple": "MISSING DESCRIPTION",
+    "noDataText": "MISSING DESCRIPTION",
+    "openOnClear": "MISSING DESCRIPTION"
+  }
+}

@@ -1,4 +1,9 @@
 {
-  "props": {
+  "props": {},
+  "events": {
+    "group:selected": "MISSING DESCRIPTION"
+  },
+  "slots": {
+    "default": "MISSING DESCRIPTION"
   }
 }

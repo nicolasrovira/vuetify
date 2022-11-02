@@ -12,7 +12,13 @@
     "readonly": "Removes all hover effects and pointer events",
     "modelValue": "The rating value",
     "itemLabels": "Array of labels to display next to each item.",
-    "itemLabelPosition": "Position of item labels. Accepts 'top' and 'bottom'."
+    "itemLabelPosition": "Position of item labels. Accepts 'top' and 'bottom'.",
+    "name": "MISSING DESCRIPTION",
+    "activeColor": "MISSING DESCRIPTION",
+    "color": "MISSING DESCRIPTION",
+    "disabled": "MISSING DESCRIPTION",
+    "ripple": "MISSING DESCRIPTION",
+    "itemAriaLabel": "MISSING DESCRIPTION"
   },
   "slots": {
     "item": "The slot for each item",

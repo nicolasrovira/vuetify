@@ -1,0 +1,12 @@
+{
+  "props": {
+    "modelValue": "MISSING DESCRIPTION",
+    "strict": "MISSING DESCRIPTION"
+  },
+  "events": {
+    "click:prepend": "MISSING DESCRIPTION",
+    "click:append": "MISSING DESCRIPTION",
+    "update:focused": "MISSING DESCRIPTION",
+    "update:modelValue": "MISSING DESCRIPTION"
+  }
+}

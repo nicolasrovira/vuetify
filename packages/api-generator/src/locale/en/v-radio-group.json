@@ -2,9 +2,16 @@
   "props": {
     "name": "Sets the component's name attribute",
     "column": "Displays radio buttons in column",
-    "inline": "Displays radio buttons in row"
+    "inline": "Displays radio buttons in row",
+    "type": "MISSING DESCRIPTION",
+    "falseIcon": "MISSING DESCRIPTION",
+    "trueIcon": "MISSING DESCRIPTION",
+    "height": "MISSING DESCRIPTION"
   },
   "events": {
-    "change": "Emitted when the input is changed by user interaction"
+    "change": "Emitted when the input is changed by user interaction",
+    "click:prepend": "MISSING DESCRIPTION",
+    "click:append": "MISSING DESCRIPTION",
+    "update:modelValue": "MISSING DESCRIPTION"
   }
 }

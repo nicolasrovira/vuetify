@@ -5,6 +5,26 @@
     "link": "Applies `v-list-item` hover styles. Useful when using the item as an _activator_.",
     "nav": "An alternative styling that reduces `v-list-item` width and rounds the corners. Typically used with **[v-navigation-drawer](/components/navigation-drawers)**",
     "subheader": "Removes the top padding from `v-list-subheader` components. When used as a **String**, renders a subheader for you",
-    "lines": "Designates a **minimum-height** for all children `v-list-item` components. This prop uses [line-clamp](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-line-clamp) and is not supported in all browsers."
+    "lines": "Designates a **minimum-height** for all children `v-list-item` components. This prop uses [line-clamp](https://developer.mozilla.org/en-US/docs/Web/CSS/-webkit-line-clamp) and is not supported in all browsers.",
+    "activeColor": "MISSING DESCRIPTION",
+    "activeClass": "MISSING DESCRIPTION",
+    "bgColor": "MISSING DESCRIPTION",
+    "itemType": "MISSING DESCRIPTION"
+  },
+  "events": {
+    "update:selected": "MISSING DESCRIPTION",
+    "update:opened": "MISSING DESCRIPTION",
+    "click:open": "MISSING DESCRIPTION",
+    "click:select": "MISSING DESCRIPTION"
+  },
+  "slots": {
+    "subheader": "MISSING DESCRIPTION",
+    "header": "MISSING DESCRIPTION",
+    "item": "MISSING DESCRIPTION"
+  },
+  "exposed": {
+    "open": "MISSING DESCRIPTION",
+    "select": "MISSING DESCRIPTION",
+    "focus": "MISSING DESCRIPTION"
   }
 }

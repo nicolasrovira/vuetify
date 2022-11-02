@@ -1,5 +1,8 @@
 {
   "props": {
-    "defaults": "Specify new default prop values for components. Keep in mind that this will be merged with previously defined values"
+    "defaults": "Specify new default prop values for components. Keep in mind that this will be merged with previously defined values",
+    "reset": "MISSING DESCRIPTION",
+    "root": "MISSING DESCRIPTION",
+    "scoped": "MISSING DESCRIPTION"
   }
 }

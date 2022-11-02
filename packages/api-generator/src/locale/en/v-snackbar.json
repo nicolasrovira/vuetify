@@ -10,6 +10,19 @@
     "vertical": "Stacks snackbar content on top of the actions (button)."
   },
   "slots": {
-    "actions": "Used to bind styles to [v-btn](/components/buttons) to match MD2 specification."
+    "actions": "Used to bind styles to [v-btn](/components/buttons) to match MD2 specification.",
+    "activator": "MISSING DESCRIPTION",
+    "default": "MISSING DESCRIPTION"
+  },
+  "events": {
+    "update:modelValue": "MISSING DESCRIPTION"
+  },
+  "exposed": {
+    "activatorEl": "MISSING DESCRIPTION",
+    "animateClick": "MISSING DESCRIPTION",
+    "contentEl": "MISSING DESCRIPTION",
+    "globalTop": "MISSING DESCRIPTION",
+    "localTop": "MISSING DESCRIPTION",
+    "updateLocation": "MISSING DESCRIPTION"
   }
 }

@@ -1,0 +1,10 @@
+{
+  "props": {
+    "color": "MISSING DESCRIPTION",
+    "expandIcon": "MISSING DESCRIPTION",
+    "collapseIcon": "MISSING DESCRIPTION",
+    "hideActions": "MISSING DESCRIPTION",
+    "ripple": "MISSING DESCRIPTION",
+    "readonly": "MISSING DESCRIPTION"
+  }
+}

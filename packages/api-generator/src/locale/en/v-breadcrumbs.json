@@ -5,11 +5,18 @@
     "items": "An array of objects for each breadcrumb.",
     "justifyCenter": "Align the breadcrumbs center.",
     "justifyEnd": "Align the breadcrumbs at the end.",
-    "large": "Increase the font-size of the breadcrumb item text to 16px (14px default)."
+    "large": "Increase the font-size of the breadcrumb item text to 16px (14px default).",
+    "activeClass": "MISSING DESCRIPTION",
+    "activeColor": "MISSING DESCRIPTION",
+    "bgColor": "MISSING DESCRIPTION",
+    "color": "MISSING DESCRIPTION",
+    "disabled": "MISSING DESCRIPTION",
+    "icon": "MISSING DESCRIPTION"
   },
   "slots": {
     "prepend": "The slot used for prepend content.",
     "divider": "The slot used for dividers.",
-    "title": "The slot used to display the title of each breadcrumb."
+    "title": "The slot used to display the title of each breadcrumb.",
+    "default": "MISSING DESCRIPTION"
   }
 }

@@ -1,0 +1,22 @@
+{
+  "props": {
+    "id": "MISSING DESCRIPTION",
+    "type": "MISSING DESCRIPTION",
+    "disabled": "MISSING DESCRIPTION",
+    "error": "MISSING DESCRIPTION",
+    "name": "MISSING DESCRIPTION",
+    "readonly": "MISSING DESCRIPTION",
+    "modelValue": "MISSING DESCRIPTION",
+    "color": "MISSING DESCRIPTION",
+    "inline": "MISSING DESCRIPTION",
+    "falseIcon": "MISSING DESCRIPTION",
+    "trueIcon": "MISSING DESCRIPTION",
+    "ripple": "MISSING DESCRIPTION",
+    "multiple": "MISSING DESCRIPTION",
+    "valueComparator": "MISSING DESCRIPTION",
+    "defaultsTarget": "MISSING DESCRIPTION"
+  },
+  "events": {
+    "update:modelValue": "MISSING DESCRIPTION"
+  }
+}
