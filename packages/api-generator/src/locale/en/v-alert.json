@@ -22,7 +22,7 @@
     "type": "Specify a **success**, **info**, **warning** or **error** alert. Uses the contextual color and has a pre-defined icon.",
     "value": "Controls whether the component is visible or hidden.",
     "width": "Sets the width for the component.",
-    "modelValue": "MISSING DESCRIPTION"
+    "modelValue": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-alert.json))"
   },
   "slots": {
     "append": "Slot for icon at end of alert.",
@@ -33,6 +33,6 @@
     "toggle": "Toggles the alert's active state. Available in the close slot and used as the click action in **dismissible**."
   },
   "events": {
-    "update:modelValue": "MISSING DESCRIPTION"
+    "update:modelValue": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-alert.json))"
   }
 }

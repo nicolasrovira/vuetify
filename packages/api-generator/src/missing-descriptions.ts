@@ -61,7 +61,17 @@ const run = async () => {
   async function readData (filename: string): Promise<TranslationData> {
     if (!(filename in translations)) {
       try {
-        translations[filename] = JSON.parse(await fs.readFile(filename, 'utf-8'))
+        const data = JSON.parse(await fs.readFile(filename, 'utf-8'))
+
+        for (const type of ['props', 'events', 'slots', 'exposed']) {
+          for (const item in data[type] ?? {}) {
+            if (data[type][item].startsWith('MISSING DESCRIPTION')) {
+              delete data[type][item]
+            }
+          }
+        }
+
+        translations[filename] = data
       } catch (e) {
         translations[filename] = {}
       }
@@ -85,9 +95,10 @@ const run = async () => {
 
         for (const locale of locales) {
           const sourceData = await readData(`./src/locale/${locale}/${filename}.json`)
+          const githubUrl = `https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/${locale}/${filename}.json`
 
           sourceData[type] ??= {}
-          sourceData[type][name] ??= 'MISSING DESCRIPTION'
+          sourceData[type][name] ??= `MISSING DESCRIPTION ([edit in github](${githubUrl}))`
         }
       }
     }
@@ -97,7 +108,7 @@ const run = async () => {
 
   for (const filename in translations) {
     try {
-      await fs.writeFile(filename, JSON.stringify(translations[filename], null, 2))
+      await fs.writeFile(filename, JSON.stringify(translations[filename], null, 2) + '\n')
     } catch (e: unknown) {
       console.error(filename, e)
     }

@@ -1,8 +1,8 @@
 {
   "props": {},
   "exposed": {
-    "getLayoutItem": "MISSING DESCRIPTION",
-    "items": "MISSING DESCRIPTION",
-    "theme": "MISSING DESCRIPTION"
+    "getLayoutItem": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-app.json))",
+    "items": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-app.json))",
+    "theme": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-app.json))"
   }
 }

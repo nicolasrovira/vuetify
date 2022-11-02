@@ -13,18 +13,18 @@
     "title": "Generates a `v-list-item-title` component with the supplied value",
     "subtitle": "Generates a `v-list-item-subtitle` component with the supplied value",
     "value": "The value used when a child of a [v-list-item-group](/components/list-item-groups).",
-    "nav": "MISSING DESCRIPTION",
-    "link": "MISSING DESCRIPTION",
-    "lines": "MISSING DESCRIPTION"
+    "nav": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-list-item.json))",
+    "link": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-list-item.json))",
+    "lines": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-list-item.json))"
   },
   "events": {
-    "click": "MISSING DESCRIPTION"
+    "click": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-list-item.json))"
   },
   "slots": {
-    "prepend": "MISSING DESCRIPTION",
-    "append": "MISSING DESCRIPTION",
-    "default": "MISSING DESCRIPTION",
-    "title": "MISSING DESCRIPTION",
-    "subtitle": "MISSING DESCRIPTION"
+    "prepend": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-list-item.json))",
+    "append": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-list-item.json))",
+    "default": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-list-item.json))",
+    "title": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-list-item.json))",
+    "subtitle": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-list-item.json))"
   }
 }

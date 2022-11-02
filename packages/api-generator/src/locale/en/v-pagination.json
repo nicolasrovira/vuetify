@@ -19,7 +19,7 @@
     "ellipsis": "Text to show between page buttons when truncating the list",
     "showFirstLastPage": "Show buttons for going to first and last page",
     "modelValue": "Current selected page",
-    "activeColor": "MISSING DESCRIPTION"
+    "activeColor": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-pagination.json))"
   },
   "events": {
     "first": "Emitted when clicking on go to first button",
@@ -27,6 +27,6 @@
     "next": "Emitted when clicking on go to next button",
     "last": "Emitted when clicking on go to last button",
     "update:modelValue": "Emitted when current selected page is updated",
-    "prev": "MISSING DESCRIPTION"
+    "prev": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-pagination.json))"
   }
 }

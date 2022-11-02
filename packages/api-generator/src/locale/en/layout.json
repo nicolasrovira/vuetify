@@ -1,6 +1,6 @@
 {
   "props": {
-    "fullHeight": "MISSING DESCRIPTION",
-    "overlaps": "MISSING DESCRIPTION"
+    "fullHeight": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/layout.json))",
+    "overlaps": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/layout.json))"
   }
 }

@@ -7,7 +7,7 @@
   },
   "events": {
     "submit": "Emitted when form is submitted",
-    "update:modelValue": "MISSING DESCRIPTION"
+    "update:modelValue": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-form.json))"
   },
   "functions": {
     "reset": "Resets the state of all registered inputs (inside the form) to **{}** for arrays and **null** for all other values. Resets errors bag when using the **lazy-validation** prop.",
@@ -15,13 +15,13 @@
     "validate": "Validates all registered inputs. Returns **true** if successful and **false** if not"
   },
   "exposed": {
-    "errors": "MISSING DESCRIPTION",
-    "isDisabled": "MISSING DESCRIPTION",
-    "isReadonly": "MISSING DESCRIPTION",
-    "isValidating": "MISSING DESCRIPTION",
-    "items": "MISSING DESCRIPTION",
-    "validate": "MISSING DESCRIPTION",
-    "reset": "MISSING DESCRIPTION",
-    "resetValidation": "MISSING DESCRIPTION"
+    "errors": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-form.json))",
+    "isDisabled": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-form.json))",
+    "isReadonly": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-form.json))",
+    "isValidating": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-form.json))",
+    "items": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-form.json))",
+    "validate": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-form.json))",
+    "reset": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-form.json))",
+    "resetValidation": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-form.json))"
   }
 }

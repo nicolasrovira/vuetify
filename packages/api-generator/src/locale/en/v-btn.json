@@ -10,11 +10,11 @@
     "prependIcon": "Adds an icon before the default slot content.",
     "stacked": "Displays the button as a flex-column.",
     "text": "Makes the background transparent. When using the **color** prop, the color will be applied to the button text instead of the background.",
-    "symbol": "MISSING DESCRIPTION",
-    "active": "MISSING DESCRIPTION",
-    "ripple": "MISSING DESCRIPTION"
+    "symbol": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-btn.json))",
+    "active": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-btn.json))",
+    "ripple": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-btn.json))"
   },
   "events": {
-    "group:selected": "MISSING DESCRIPTION"
+    "group:selected": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-btn.json))"
   }
 }

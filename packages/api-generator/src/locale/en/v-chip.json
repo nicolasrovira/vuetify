@@ -14,21 +14,21 @@
     "outlined": "Removes background and applies border and text color",
     "pill": "Remove `v-avatar` padding",
     "value": "The value used when a child of a [v-chip-group](/components/chip-groups).",
-    "text": "MISSING DESCRIPTION",
-    "activeClass": "MISSING DESCRIPTION",
-    "appendAvatar": "MISSING DESCRIPTION",
-    "appendIcon": "MISSING DESCRIPTION",
-    "closable": "MISSING DESCRIPTION",
-    "prependAvatar": "MISSING DESCRIPTION",
-    "prependIcon": "MISSING DESCRIPTION",
-    "ripple": "MISSING DESCRIPTION",
-    "modelValue": "MISSING DESCRIPTION"
+    "text": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-chip.json))",
+    "activeClass": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-chip.json))",
+    "appendAvatar": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-chip.json))",
+    "appendIcon": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-chip.json))",
+    "closable": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-chip.json))",
+    "prependAvatar": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-chip.json))",
+    "prependIcon": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-chip.json))",
+    "ripple": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-chip.json))",
+    "modelValue": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-chip.json))"
   },
   "events": {
     "click": "Emitted when component is clicked, toggles chip if contained in a chip group - Will trigger component to ripple when clicked unless the `.native` modifier is used",
     "click:close": "Emitted when close icon is clicked",
     "update:active": "Emitted when close icon is clicked, sets active to `false`",
-    "update:modelValue": "MISSING DESCRIPTION",
-    "group:selected": "MISSING DESCRIPTION"
+    "update:modelValue": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-chip.json))",
+    "group:selected": "MISSING DESCRIPTION ([edit in github](https://github.com/vuetifyjs/vuetify/tree/next/packages/api-generator/src/locale/en/v-chip.json))"
   }
 }
